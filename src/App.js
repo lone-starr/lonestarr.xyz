@@ -1,15 +1,44 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Choo Choo! This is an example of a create-react-app site running on Railway.</p>
-        <a className="App-link" href="https://react.dev/learn" target="_blank" rel="noreferrer noopener">Learn React</a>
-      </header>
-    </div>
+    <>
+      <div className="container">
+        <div className="jumbotron">
+          <h1>lonestarr.xyz</h1>
+          <p>
+            Advocate for Bitcoin as a tool for financial sovereignty without
+            trusted third parties
+          </p>
+        </div>
+        <div>
+          <p>
+            <a href="https://github.com/lone-starr" target="_blank">
+              GitHub
+            </a>
+          </p>
+          <p>
+            <a
+              href="https://www.youtube.com/channel/UCddZ_F3MyLB9CHnQFP00Pug"
+              target="_blank"
+            >
+              YouTube channel
+            </a>
+          </p>
+          <p>
+            <a href="https://charts.lonestarr.xyz/" target="_blank">
+              Bitcoin charts
+            </a>
+            <p>
+              data sourced from mempool.space
+              <br />
+              same data, more granularity
+            </p>
+          </p>
+          <p>Contact: chris@lonestarr.xyz</p>
+        </div>
+      </div>
+    </>
   );
 }
 
