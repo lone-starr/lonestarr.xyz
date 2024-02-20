@@ -13,20 +13,20 @@ function App() {
         </div>
         <div>
           <p>
-            <a href="https://github.com/lone-starr" target="_blank">
+            <a href="https://github.com/lone-starr" target="_blank" rel="noreferrer">
               GitHub
             </a>
           </p>
           <p>
             <a
               href="https://www.youtube.com/channel/UCddZ_F3MyLB9CHnQFP00Pug"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               YouTube channel
             </a>
           </p>
           <p>
-            <a href="https://charts.lonestarr.xyz/" target="_blank">
+            <a href="https://charts.lonestarr.xyz/" target="_blank" rel="noreferrer">
               Bitcoin charts
             </a>
             <p>
