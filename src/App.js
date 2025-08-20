@@ -29,13 +29,15 @@ function App() {
             <a href="https://charts.lonestarr.xyz/" target="_blank" rel="noreferrer">
               Bitcoin charts
             </a>
-            Chart data sourced from&nbsp;
-            <a href="https://mempool.space/docs/api/rest" target="_blank" rel="noreferrer">
-              mempool.space
-            </a>
+            <br />
+            <i>Chart data sourced from&nbsp;
+              <a href="https://mempool.space/docs/api/rest" target="_blank" rel="noreferrer">
+                mempool.space
+              </a>
+            </i>
           </p>
         </div>
-      </div>
+      </div >
     </>
   );
 }
