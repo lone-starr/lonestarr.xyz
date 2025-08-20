@@ -35,7 +35,6 @@ function App() {
               same data, more granularity
             </p>
           </p>
-          <p>Contact: chris@lonestarr.xyz</p>
         </div>
       </div>
     </>
