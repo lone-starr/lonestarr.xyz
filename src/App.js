@@ -31,7 +31,7 @@ function App() {
             </a>
           </p>
           <p>
-            data sourced from
+            data sourced from&nbsp;
             <a href="https://mempool.space/docs/api/rest" target="_blank" rel="noreferrer">
               mempool.space
             </a>
