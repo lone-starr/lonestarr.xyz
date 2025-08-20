@@ -29,11 +29,12 @@ function App() {
             <a href="https://charts.lonestarr.xyz/" target="_blank" rel="noreferrer">
               Bitcoin charts
             </a>
-            <p>
-              data sourced from mempool.space
-              <br />
-              same data, more granularity
-            </p>
+          </p>
+          <p>
+            data sourced from
+            <a href="https://mempool.space/docs/api/rest" target="_blank" rel="noreferrer">
+              mempool.space
+            </a>
           </p>
         </div>
       </div>
