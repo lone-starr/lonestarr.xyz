@@ -36,6 +36,12 @@ function App() {
               </a>
             </i>
           </p>
+          <p>
+            <a href="https://cpi.lonestarr.xyz/" target="_blank" rel="noreferrer">
+              Prices in Dollar vs Bitcoin using monthly CPI and Bitcoin price data
+            </a>
+            <br />
+          </p>
         </div>
       </div >
     </>
